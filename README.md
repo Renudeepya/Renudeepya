@@ -41,7 +41,3 @@ Building and documenting end-to-end analytics projects on public datasets, with 
 ### Education
 
 **M.S. Business Intelligence & Analytics** — Stevens Institute of Technology (GPA 3.91) · dual M.S. Sports Technology & Digital Transformation, Universidad Europea / Real Madrid, Madrid.
-
-### GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Renudeepya&show_icons=true&hide=stars&count_private=true&hide_title=true&theme=default) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renudeepya&layout=compact&langs_count=6)
