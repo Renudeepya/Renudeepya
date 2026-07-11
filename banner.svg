@@ -27,9 +27,6 @@
 
   <!-- subtitle with a blinking caret -->
   <text x="62" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#7fd8cf">Data &amp; ML Professional  ·  turning raw data into decisions</text>
-  <rect x="628" y="115" width="10" height="20" fill="#2dd4bf">
-    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
-  </rect>
 
   <!-- small role tags -->
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9fb9c9">
