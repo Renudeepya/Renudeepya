@@ -1,5 +1,7 @@
 ![Renu Deepya Iska — Data & ML Professional](banner.svg)
 
+<img align="right" width="165" src="avatar.gif" alt="Renu Deepya Iska" />
+
 # Renu Deepya Iska, M.S.
 
 **Data & ML Professional** · M.S. Business Intelligence & Analytics (GPA 3.91)
