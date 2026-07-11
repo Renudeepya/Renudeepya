@@ -1,3 +1,5 @@
+![Renu Deepya Iska — Data & ML Professional](banner.svg)
+
 # Renu Deepya Iska, M.S.
 
 **Data & ML Professional** · M.S. Business Intelligence & Analytics (GPA 3.91)
