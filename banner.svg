@@ -1,0 +1,80 @@
+<svg viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Renu Deepya Iska — Data and ML Professional">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f33"/>
+      <stop offset="1" stop-color="#0e2a3a"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#0ea5a0"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" rx="18" fill="url(#bg)"/>
+
+  <!-- top accent bar with a sweeping shimmer -->
+  <rect x="0" y="0" width="1000" height="4" fill="url(#sweep)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- name -->
+  <text x="60" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#eaf2f8">Renu Deepya Iska</text>
+
+  <!-- subtitle with a blinking caret -->
+  <text x="62" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#7fd8cf">Data &amp; ML Professional  ·  turning raw data into decisions</text>
+  <rect x="628" y="115" width="10" height="20" fill="#2dd4bf">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- small role tags -->
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9fb9c9">
+    <text x="62" y="172">Python</text>
+    <text x="128" y="172">·</text>
+    <text x="142" y="172">SQL</text>
+    <text x="182" y="172">·</text>
+    <text x="196" y="172">PySpark</text>
+    <text x="262" y="172">·</text>
+    <text x="276" y="172">Snowflake</text>
+    <text x="360" y="172">·</text>
+    <text x="374" y="172">Power BI</text>
+  </g>
+
+  <!-- animated data-motif bar chart (right side) -->
+  <g>
+    <rect x="628" y="185" width="26" height="10" rx="3" fill="url(#bar)">
+      <animate attributeName="height" values="40;120;70;100;40" dur="2.6s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="145;65;115;85;145" dur="2.6s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="676" y="185" width="26" height="10" rx="3" fill="url(#bar)">
+      <animate attributeName="height" values="70;45;110;60;70" dur="2.6s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="115;140;75;125;115" dur="2.6s" begin="0.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="724" y="185" width="26" height="10" rx="3" fill="url(#bar)">
+      <animate attributeName="height" values="95;130;55;115;95" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="90;55;130;70;90" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="772" y="185" width="26" height="10" rx="3" fill="url(#bar)">
+      <animate attributeName="height" values="55;100;135;70;55" dur="2.6s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="130;85;50;115;130" dur="2.6s" begin="0.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="820" y="185" width="26" height="10" rx="3" fill="url(#bar)">
+      <animate attributeName="height" values="110;60;90;130;110" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="75;125;95;55;75" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="868" y="185" width="26" height="10" rx="3" fill="url(#bar)">
+      <animate attributeName="height" values="80;125;65;105;80" dur="2.6s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="105;60;120;80;105" dur="2.6s" begin="1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="916" y="185" width="26" height="10" rx="3" fill="url(#bar)">
+      <animate attributeName="height" values="60;95;120;50;60" dur="2.6s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="125;90;65;135;125" dur="2.6s" begin="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <!-- baseline -->
+    <rect x="622" y="188" width="328" height="2" fill="#274a5c"/>
+  </g>
+</svg>
