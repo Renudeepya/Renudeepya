@@ -1,7 +1,5 @@
 ![Renu Deepya Iska — Data & ML Professional](banner.svg)
 
-<img align="right" width="165" src="avatar.gif" alt="Renu Deepya Iska" />
-
 # Renu Deepya Iska, M.S.
 
 **Data & ML Professional** · M.S. Business Intelligence & Analytics (GPA 3.91)
@@ -12,9 +10,20 @@ Production data pipelines · ML model integration · Governed, reproducible anal
 
 ---
 
-I build the layer between raw data and decisions — production data pipelines, governed data models, and analysis that answers a specific business question instead of just describing a dataset. ~5 years across data roles in finance (**Charles Schwab**) and e-commerce (**Wissen Technology**), including integrating ML risk models into production workflows and standing up enterprise data-governance and quality frameworks.
+<table>
+<tr>
+<td valign="top" width="72%">
 
-Open to **Data Analyst, Business/BI Analyst, CRM/Salesforce Analyst, Data Engineering, Research Analyst,** and **entry-level Data Scientist** roles — and applying to analytics / information-systems **PhD programs for Fall 2027**.
+I build the layer between raw data and decisions — production data pipelines, governed data models, and analysis that answers a specific business question instead of just describing a dataset. ~5 years across data roles in finance (<b>Charles Schwab</b>) and e-commerce (<b>Wissen Technology</b>), including integrating ML risk models into production workflows and standing up enterprise data-governance and quality frameworks.
+<br/><br/>
+Open to <b>Data Analyst, Business/BI Analyst, CRM/Salesforce Analyst, Data Engineering, Research Analyst,</b> and <b>entry-level Data Scientist</b> roles — and applying to analytics / information-systems <b>PhD programs for Fall 2027</b>.
+
+</td>
+<td valign="top" align="center" width="28%">
+<img src="avatar.gif" width="190" alt="Renu Deepya Iska" />
+</td>
+</tr>
+</table>
 
 ### Currently
 
