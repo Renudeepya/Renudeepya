@@ -20,7 +20,7 @@ Open to <b>Data Analyst, Business/BI Analyst, CRM/Salesforce Analyst, Data Engin
 
 </td>
 <td valign="top" align="center" width="28%">
-<img src="avatar.gif" width="190" alt="Renu Deepya Iska" />
+<img src="https://raw.githubusercontent.com/Renudeepya/Renudeepya/main/avatar.gif" width="190" alt="Renu Deepya Iska" />
 </td>
 </tr>
 </table>
