@@ -27,11 +27,11 @@ Open to <b>Data Analyst, Business/BI Analyst, CRM/Salesforce Analyst, Data Engin
 
 ### Currently
 
-Building and documenting end-to-end analytics projects on public datasets, with data quality treated as a first-class discipline and results reported honestly (nulls stated as nulls).
+Building and documenting end-to-end analytics projects on public datasets, with data quality treated as a first-class discipline and results reported.
 
 ### Featured project
 
-**[Customer Retention & CRM Health Analytics Platform](https://github.com/Renudeepya/crm-health-analytics-platform)** — 9-table relational engineering to RFM / cohort / CLV analytics, a tested hypothesis, a dashboard, and a time-split model, on ~100k real Olist e-commerce orders. Headline finding, computed from raw data: late delivery collapses review scores (**4.29 to 2.27 stars**, Cohen's d = 1.7) but shows **no significant effect on repeat purchase** — a split result reported honestly. *(Python, pandas, scikit-learn, star-schema modeling, Chart.js)*
+**[Customer Retention & CRM Health Analytics Platform](https://github.com/Renudeepya/crm-health-analytics-platform)** — 9-table relational engineering to RFM / cohort / CLV analytics, a tested hypothesis, a dashboard, and a time-split model, on ~100k real Olist e-commerce orders. Headline finding, computed from raw data: late delivery collapses review scores (**4.29 to 2.27 stars**, Cohen's d = 1.7) but shows **no significant effect on repeat purchase** — a split result reported. *(Python, pandas, scikit-learn, star-schema modeling, Chart.js)*
 
 ### Skills
 
