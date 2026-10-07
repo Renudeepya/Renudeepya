@@ -15,7 +15,6 @@ Production data pipelines · ML model integration · Governed, reproducible anal
 <td valign="top" width="72%">
 
 I build the layer between raw data and decisions — production data pipelines, governed data models, and analysis that answers a specific business question instead of just describing a dataset. ~5 years across data roles in finance (<b>Charles Schwab</b>) and e-commerce (<b>Wissen Technology</b>), including integrating ML risk models into production workflows and standing up enterprise data-governance and quality frameworks.
-<br/><br/>
 
 </td>
 <td valign="top" align="center" width="28%">
